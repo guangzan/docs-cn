@@ -75,7 +75,7 @@ export default {
 
 ### 示例 {#examples}
 
-#### 禁用预检 {#disable-preflight}
+#### 禁用预检样式 {#disable-preflight}
 
 _ngridsome.config.js_
 
